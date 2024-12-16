@@ -1,3 +1,4 @@
 locked_packages = Simple Rule
 1.0 = [24.7.0,)
 1.1 = [24.7.0,)
+1.2 = [24.7.0,)
