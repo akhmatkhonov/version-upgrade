@@ -7,7 +7,7 @@
   <RULE_ID>10009772339</RULE_ID>
   <RULE_TYPE>After Configured Field Update</RULE_TYPE>
   <SQL_TEXT>begin
-    UTIL.RAISEERROR(&apos;The rule version is 1.0&apos;)
+    UTIL.RAISEERROR(&apos;The rule version is 1.2&apos;)
 end;</SQL_TEXT>
   <WARNING_LABEL/>
   <RULE_CLASS_PARAM_VALS/>
